@@ -12,9 +12,18 @@ body {
     width: 10rem;
     border-radius: 25%;
 }
+
 @media all and (min-width: 400px){
     .rose {
         width: 18rem;
         border-radius: 25%;
     }
+}
+
+.pine-green {
+    background-color: #133106;
+}
+
+.funny-pic {
+    width: 100%;
 }
